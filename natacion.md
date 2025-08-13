@@ -12,3 +12,8 @@ Es suave con las articulaciones.
 Calienta con estiramientos articulares fuera del agua.
 Nada de forma continua o por intervalos durante 30–45 minutos.
 Termina con nado suave y estiramientos.
+
+## Consejos
+Aprende la técnica adecuada de los estilos.
+Usa gafas y gorro de natación.
+No te olvides de hidratarte, incluso en el agua.
