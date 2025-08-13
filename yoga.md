@@ -12,3 +12,8 @@ Fortalece el cuerpo y la mente.
 Inicia con una breve concentración y respiración consciente.
 Realiza una secuencia de posturas (asanas), adaptada a tu nivel.
 Finaliza con relajación profunda (Savasana).
+
+## Consejos
+Practica en un lugar tranquilo y cómodo.
+Escucha tu cuerpo y no te exijas más de la cuenta.
+Usa una esterilla antideslizante.
