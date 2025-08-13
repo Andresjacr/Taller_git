@@ -7,3 +7,8 @@ El entrenamiento funcional se basa en movimientos que imitan acciones cotidianas
 Mejora el rendimiento en actividades diarias.
 Fortalece el core y mejora el equilibrio.
 Previene lesiones.
+
+## Instrucciones
+Calienta con movilidad articular y cardio suave (5-10 min).
+Realiza circuitos con ejercicios como burpees, zancadas, saltos, planchas, etc.
+Termina con un enfriamiento y estiramientos.
