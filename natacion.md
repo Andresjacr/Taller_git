@@ -7,3 +7,8 @@ La natación es un ejercicio de bajo impacto que trabaja todo el cuerpo, ideal p
 Fortalece todos los grupos musculares.
 Mejora la resistencia cardiovascular.
 Es suave con las articulaciones.
+
+## Instrucciones
+Calienta con estiramientos articulares fuera del agua.
+Nada de forma continua o por intervalos durante 30–45 minutos.
+Termina con nado suave y estiramientos.
