@@ -12,3 +12,8 @@ Mejora la postura y la flexibilidad.
 Calienta con ejercicios de respiración y activación del core.
 Realiza una serie de movimientos controlados en colchoneta o con aparatos.
 Finaliza con estiramientos suaves.
+
+## Consejos
+Concéntrate en la alineación y el control.
+Mantén una respiración fluida.
+Practica descalzo o con calcetines antideslizantes.
