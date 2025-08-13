@@ -12,3 +12,8 @@ Acelera el metabolismo.
 Comienza con un calentamiento general (5-10 min).
 Realiza ejercicios de fuerza (como sentadillas, press de pecho, peso muerto) en 3-4 series de 8-12 repeticiones.
 Finaliza con estiramientos para evitar rigidez muscular.
+
+## Consejos
+Mantén una buena técnica en cada ejercicio.
+Aumenta el peso progresivamente.
+Descansa al menos 48h entre sesiones del mismo grupo muscular.
