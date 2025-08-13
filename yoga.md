@@ -7,3 +7,8 @@ El yoga es una práctica física, mental y espiritual que combina posturas, resp
 Mejora la flexibilidad y el equilibrio.
 Reduce el estrés y la ansiedad.
 Fortalece el cuerpo y la mente.
+
+## Instrucciones
+Inicia con una breve concentración y respiración consciente.
+Realiza una secuencia de posturas (asanas), adaptada a tu nivel.
+Finaliza con relajación profunda (Savasana).
