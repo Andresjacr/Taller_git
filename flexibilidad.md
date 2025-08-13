@@ -12,3 +12,8 @@ Disminuye la tensión muscular.
 Calienta brevemente antes de estirar (5 min de movimiento suave).
 Realiza estiramientos estáticos o dinámicos, manteniendo cada posición por 20–30 segundos.
 Estira todos los grupos musculares principales.
+
+## Consejos
+No rebotes al estirar.
+Respira profundamente durante los estiramientos.
+Practica con regularidad, idealmente a diario.
